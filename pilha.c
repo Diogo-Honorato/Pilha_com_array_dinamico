@@ -36,6 +36,10 @@ void RemoveStack(Stack *stack,int *size)
         stack->index--;
         size-=1;
     }
+    else
+    {
+        printf("\n\nEmpty stack!\n\n");
+    }
 }
 
 void PrintStack(Stack *stack)
