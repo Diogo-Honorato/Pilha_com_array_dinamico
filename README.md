@@ -1,0 +1,2 @@
+# Pilha_com_array_dinamico
+Estrutura de dados Pilha implementada com array dinamico com as funçoes de inserçao remoçao e imprimir.
